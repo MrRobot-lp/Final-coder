@@ -1,0 +1,35 @@
+/* vista mobile */
+@media only screen and (max-width: 767px){
+    img.logo{
+      margin-left: 150px;
+    }
+    .horarios{
+        margin-left: 70px;
+        margin-bottom: 20px;
+    }
+    .formulario{
+        display: flex;
+        flex-direction: column;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 5px;
+    }
+    .quick-links{
+        display:flex;
+        width: 300px;
+        height: 70px;
+        margin-top: 15px;
+        justify-content: center;
+        margin-left:1px;   
+       
+    }
+    .horarios{
+        width: 350px;
+        margin-left: 25px;
+    }
+   .mapaGoogle2{
+       box-sizing: border-box;
+       margin-left: 1px;
+   }
+   
+}
